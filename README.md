@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 <h1 align="center">Hi 👋, I'm Rob</h1>
 <h3 align="center">I'm Rob Simmons, a fullstack software engineer and freelance web developer based in San Diego, California. I'm passionate about sports, music, technology, and everything that makes the internet tick, including Dr. Pepper. My work consists of a full-time software engineering role at 100Devs and managing ongoing freelance clients and side projects, which helps me learn and keep up with the latest developer tools and frameworks.</h3>
