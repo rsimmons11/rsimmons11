@@ -2,14 +2,23 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
+<p align="center">
 <a href="https://www.linkedin.com/in/robsimmons11/">
   <img height="48" src="https://github.com/rsimmons11/rsimmons11/assets/131081276/42a88d56-eb23-4fa5-b45a-1ae9e237a46c"/>
 </a>
 <a href="https://twitter.com/RobertS40455705"
   <img height="48" src "https://github.com/rsimmons11/rsimmons11/assets/131081276/2b817e52-de07-4a33-b11f-8b15f90cdcee"
+</a>
+  <a href="https://github.com/rsimmons11">
+    <img height="48" src="https://github.com/rsimmons11/rsimmons11/assets/131081276/e078162d-0f6b-414a-8d27-a5b7ec58776f"
+  </a>
 
 
-<h1 align="center">Hi 👋, I'm Rob</h1>
+
+  
+</p>
+
+
 <h3 align="center">I'm Rob Simmons, a fullstack software engineer and freelance web developer based in San Diego, California. I'm passionate about sports, music, technology, and everything that makes the internet tick, including Dr. Pepper. My work consists of a full-time software engineering role at 100Devs and managing ongoing freelance clients and side projects, which helps me learn and keep up with the latest developer tools and frameworks.</h3>
 
 - 👨‍💻 All of my projects are available at [https://robsimmons.netlify.app/](https://robsimmons.netlify.app/)
