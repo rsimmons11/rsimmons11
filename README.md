@@ -17,7 +17,10 @@
   </a>
 </p>
 
-<iframe src="https://giphy.com/embed/HzPtbOKyBoBFsK4hyc" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fomoduck-duck-fomo-forever-squad-HzPtbOKyBoBFsK4hyc">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/HzPtbOKyBoBFsK4hyc" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<p><a href="https://giphy.com/gifs/fomoduck-duck-fomo-forever-squad-HzPtbOKyBoBFsK4hyc">via GIPHY</a></p>
+
+
 <h3 align="center">I'm Rob Simmons, a fullstack software engineer and freelance web developer based in San Diego, California. I'm passionate about sports, music, technology, and everything that makes the internet tick, including Dr. Pepper. My work consists of a full-time software engineering role at 100Devs and managing ongoing freelance clients and side projects, which helps me learn and keep up with the latest developer tools and frameworks.</h3>
 
 
