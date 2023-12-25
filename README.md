@@ -17,7 +17,7 @@
   </a>
 </p>
 
-<iframe src="https://giphy.com/embed/HzPtbOKyBoBFsK4hyc" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img src="https://giphy.com/embed/HzPtbOKyBoBFsK4hyc" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen>
 <p><a href="https://giphy.com/gifs/fomoduck-duck-fomo-forever-squad-HzPtbOKyBoBFsK4hyc">via GIPHY</a></p>
 
 
