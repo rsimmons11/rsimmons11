@@ -5,7 +5,7 @@
 <p align="center">
 
   <a href="https://robsimmons.netlify.app/](https://robsimmons.netlify.app/">
-  <img height="60" src="https://github.com/rsimmons11/rsimmons11/assets/131081276/8960cbae-65db-4f32-a8b8-90adc9c4d5ed"
+  <img height="60" src="https://github.com/rsimmons11/rsimmons11/assets/131081276/d81fc19e-ab30-4ffc-8f66-5067414619b4"
   </a>
 
   <a href="https://www.linkedin.com/in/robsimmons11">
