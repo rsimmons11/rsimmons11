@@ -43,6 +43,8 @@ currently_learning: ["React Native"]
 hobbies: ["Gaming", "Cinema", "Working out", "Napping", "Comedy"]
 
 
+
+```
 ---  
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
@@ -71,8 +73,6 @@ hobbies: ["Gaming", "Cinema", "Working out", "Napping", "Comedy"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
-```
-
 <h3 align="center">I'm Rob Simmons, a fullstack software engineer and freelance web developer based in San Diego, California. I'm passionate about sports, music, technology, and everything that makes the internet tick, including Dr. Pepper. My work consists of a full-time software engineering role at 100Devs and managing ongoing freelance clients and side projects, which helps me learn and keep up with the latest developer tools and frameworks.</h3>
 
 
