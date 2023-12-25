@@ -18,7 +18,27 @@
 </p>
 
 ```yaml
-* YOUR TEXT GOES HERE *
+name: Rob Simmons
+located_in: San Diego, California
+current_job: ["Full Stack Developer", "Freelancer"]
+education: Self-Taught Developer
+company: 100Devs
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Machine Learning",
+    "UI/UX",
+    "DevOps",
+  ]
+technical_background:
+  [
+    "Full Stack Developer"
+  ]
+  
+currently_learning: ["React Native"]
+2024 Goals: ["Create 15+ Projects."]
+hobbies: ["Gaming", "Cinema", "Working out", "Napping", "Comedy"]
 ```
 
 <h3 align="center">I'm Rob Simmons, a fullstack software engineer and freelance web developer based in San Diego, California. I'm passionate about sports, music, technology, and everything that makes the internet tick, including Dr. Pepper. My work consists of a full-time software engineering role at 100Devs and managing ongoing freelance clients and side projects, which helps me learn and keep up with the latest developer tools and frameworks.</h3>
