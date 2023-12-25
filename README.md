@@ -3,7 +3,11 @@
 </p>
 
 <p align="center">
-  
+
+  <a href"https://robsimmons.netlify.app/](https://robsimmons.netlify.app/">
+  <img height="48" src="https://github.com/rsimmons11/rsimmons11/assets/131081276/8960cbae-65db-4f32-a8b8-90adc9c4d5ed"
+  </a>
+
   <a href="https://www.linkedin.com/in/robsimmons11">
     <img height="48" src="https://github.com/rsimmons11/rsimmons11/assets/131081276/42a88d56-eb23-4fa5-b45a-1ae9e237a46c"/>
   </a>
@@ -24,7 +28,9 @@
 
 <h3 align="center">I'm Rob Simmons, a fullstack software engineer and freelance web developer based in San Diego, California. I'm passionate about sports, music, technology, and everything that makes the internet tick, including Dr. Pepper. My work consists of a full-time software engineering role at 100Devs and managing ongoing freelance clients and side projects, which helps me learn and keep up with the latest developer tools and frameworks.</h3>
 
-- 👨‍💻 All of my projects are available at [https://robsimmons.netlify.app/](https://robsimmons.netlify.app/)
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
