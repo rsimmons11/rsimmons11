@@ -3,12 +3,15 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/robsimmons11/">
-  <img height="48" src="https://github.com/rsimmons11/rsimmons11/assets/131081276/42a88d56-eb23-4fa5-b45a-1ae9e237a46c"/>
-</a>
-<a href="https://twitter.com/RobertS40455705"
-  <img height="48" src="https://github.com/rsimmons11/rsimmons11/assets/131081276/2b817e52-de07-4a33-b11f-8b15f90cdcee"/>
-</a>
+  
+  <a href="https://www.linkedin.com/in/robsimmons11">
+    <img height="48" src="https://github.com/rsimmons11/rsimmons11/assets/131081276/42a88d56-eb23-4fa5-b45a-1ae9e237a46c"/>
+  </a>
+  
+  <a href="https://twitter.com/RobertS40455705">
+    <img height="48" src="https://github.com/rsimmons11/rsimmons11/assets/131081276/2b817e52-de07-4a33-b11f-8b15f90cdcee"/>
+  </a>
+  
   <a href="https://github.com/rsimmons11">
     <img height="48" src="https://github.com/rsimmons11/rsimmons11/assets/131081276/e078162d-0f6b-414a-8d27-a5b7ec58776f"
   </a>
