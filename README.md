@@ -5,6 +5,8 @@
 <a href="https://www.linkedin.com/in/robsimmons11/">
   <img height="48" src="https://github.com/rsimmons11/rsimmons11/assets/131081276/42a88d56-eb23-4fa5-b45a-1ae9e237a46c"/>
 </a>
+<a href="https://twitter.com/RobertS40455705"
+![image](src "https://github.com/rsimmons11/rsimmons11/assets/131081276/2b817e52-de07-4a33-b11f-8b15f90cdcee"
 
 
 <h1 align="center">Hi 👋, I'm Rob</h1>
