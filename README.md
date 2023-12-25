@@ -17,6 +17,8 @@
   </a>
 </p>
 
+<h2> 👨🏿‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+
 ```yaml
 name: Rob Simmons
 located_in: San Diego, California
