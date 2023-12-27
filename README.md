@@ -21,6 +21,8 @@
   </a>
 </p>
 
+---
+
 <h2> 👨🏿‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
@@ -45,10 +47,8 @@ technical_background:
 currently_learning: ["React Native"]
 2024 Goals: ["Create 15+ Projects."]
 hobbies: ["Gaming", "Cinema", "Working out", "Napping", "Comedy"]
-
-
-
 ```
+
 ---  
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
