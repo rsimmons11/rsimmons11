@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
+
 <p align="center">
   <a href="https://robsimmons.netlify.app/](https://robsimmons.netlify.app/">
     <img height="50" src="https://github.com/rsimmons11/rsimmons11/assets/131081276/d81fc19e-ab30-4ffc-8f66-5067414619b4"
