@@ -70,3 +70,7 @@ hobbies: ["Gaming", "Cinema", "Working out", "Napping", "Comedy"]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsimmons11&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Snake animation](https://github.com/rsimmons11/rsimmons11/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
