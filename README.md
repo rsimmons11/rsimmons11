@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://robsimmons.netlify.app/](https://robsimmons.netlify.app/">
+  <a href="https://www.rob-simmons.com">
     <img height="50" src="https://github.com/rsimmons11/rsimmons11/assets/131081276/d81fc19e-ab30-4ffc-8f66-5067414619b4"
   </a>
   <a href="https://www.linkedin.com/in/robsimmons11">
